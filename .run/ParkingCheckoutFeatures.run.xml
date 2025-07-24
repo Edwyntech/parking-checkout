@@ -1,0 +1,19 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ParkingCheckoutFeatures" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="parking-checkout" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="tech.edwyn.parking.checkout.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="tech.edwyn.parking.checkout" />
+    <option name="MAIN_CLASS_NAME" value="tech.edwyn.parking.checkout.ParkingCheckoutFeatures" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <option name="VM_PARAMETERS" value="-ea -Xshare:off -XX:-EnableDynamicAgentLoading -javaagent:$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy-agent/1.17.6/byte-buddy-agent-1.17.6.jar" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
